@@ -1,6 +1,3 @@
-Here’s a clean, professional **README.md** for your **AI Handwritten Exam Evaluation System** 👇 (you can directly paste this into your GitHub repo)
-
----
 
 # 🧠 AI Handwritten Exam Evaluation System
 
@@ -190,14 +187,3 @@ This project is licensed under the MIT License.
 ## 👨‍💻 Author
 
 **Rishi Charhate**
-
----
-
-If you want, I can also:
-
-* ✅ Generate **requirements.txt**
-* ✅ Create **GitHub repo structure**
-* ✅ Add **LLM evaluation (like Ollama / OpenAI)**
-* ✅ Convert this into a **PPT for your project presentation**
-
-Just tell me 👍
